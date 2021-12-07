@@ -1,4 +1,4 @@
-idade = int(input('Digite sua idade: '))
+idade = float(input('Digite sua idade: '))
 
 if idade >=  60:
     print('Idoso')
