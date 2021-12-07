@@ -1,4 +1,4 @@
-idade = int(input('Digite sua idade: '))
+idade = int(input('Qual a sua idade? '))
 
 if idade >=  60:
     print('Idoso')
