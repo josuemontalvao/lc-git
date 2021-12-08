@@ -1,1 +1,1 @@
-print('Questão 5')
+print('Questão 5 - apenas um exemplo')
